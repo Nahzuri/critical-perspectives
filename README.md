@@ -14,8 +14,7 @@ The climate crisis represents an existential threat to humanity, and therefore i
 
 In this course, students will learn to analyze claims of sustainability in existing products and systems and judge whether these designs truly mitigate environmental harm. The first half of the course will focus on the analysis of existing designs, while in the second half students will iterate and refine their own proposals for sustainably designed products and systems. Examining the environmental, political, and social implications of their proposals, they will justify their approaches with current data and methods and demonstrate how their design ultimately benefits the world.
 
-#Objectives
-
+# Objectives
 By the end of this course, students will be able to:
  1. Summarize current research and academic consensus on the nature of environmental, social, and economic sustainability.
  2. Critically evaluate current approaches to the assessment of system sustainability such as LEED, LCA, or Emergy evaluation.
