@@ -1,4 +1,4 @@
-# MAS.S73: Critical Perspectives on sustainable Design
+# MAS.S73: Critical Perspectives on Sustainable Design
 This repository contains information on the MIT independent activies period (IAP) course Critical Perspectives on Sustainable Design. This is a 3 credit course open to MIT graduate and undergraduate students.
 
 This class meets on Tuesdays and Thursdays from 1pm to 5pm in E15-359.
